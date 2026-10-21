@@ -1,0 +1,9 @@
+{
+  "name": "Game.Runtime",
+  "rootNamespace": "SurvivalCore",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}
